@@ -4,9 +4,9 @@ const movies=["krish","alianvspredator","avengers"]
 //console.log(alian);
 //console.log(alian[3][1]);
 //console.log(typeof (alian + movies));
-// const allMovies = alian.concat(movies)
-// console.log(allMovies);
-const allMovies = [...alian,...movies]// spread operator    
+ const allMovies = alian.concat(movies)
+console.log(allMovies);
+//const allMovies = [...alian,...movies]// spread operator    
 //console.log(allMovies);
 const another_array = [1,2,3,[4,5,6],7,[6,7,[4,5]]]
 
