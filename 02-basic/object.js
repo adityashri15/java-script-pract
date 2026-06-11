@@ -66,3 +66,4 @@ greet();
 // short form const add = (a, b) => a + b;
 
 console.log(add(2, 3)); // 5
+// cont onj2= new object()
